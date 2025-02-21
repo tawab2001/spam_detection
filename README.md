@@ -1,4 +1,4 @@
-# Job Title and Location Prediction
+# Job Prediction
 
 ## Overview
 This project predicts job titles and locations based on given skills using machine learning. A dataset containing job titles, locations, and required skills is used to train predictive models.
